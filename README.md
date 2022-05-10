@@ -15,8 +15,8 @@
  - 系統架設完成
  </Pre>
  </Details>
- <Details>
  
+ <Details>
 <Summary>團隊運營</Summary>
 <Pre>
 - 新增linebot負責人
@@ -24,8 +24,20 @@
 </Pre>
 </Details>
 
-<Summary>功能運營</Summary>
+<Details>
+<Summary>功能/社群運營</Summary>
 <Pre>
-- 
+- linebot帳號架設、訊息測試完成
+- 唯一social media instagram帳號架設完成
+</Pre>
+</Details>
+
+
+<Details>
+<Summary>健康狀況</Summary>
+<Pre>
+- linebot帳號架設、訊息測試完成
+- 唯一social media instagram帳號架設完成
+- 還沒死透
 </Pre>
 </Details>
