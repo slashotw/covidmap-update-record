@@ -16,6 +16,6 @@
 <Summary>團隊運營</Summary>
 <Pre>
 - 新增linebot負責人
-- 新增~~超級可愛的~~美宣
+- 新增 ~~超級可愛的~~ 美宣
  </Pre>
  </Details>
