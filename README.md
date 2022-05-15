@@ -1,5 +1,6 @@
 # covidmap-update-record
 > 文華確診地圖更新日記
+> 歡迎提交PR或者用discord聯繫我！[KvN1027#1167](KvN1027#1167)
 ### v1.0
 <Details>
 <Summary>網站運營</Summary>
